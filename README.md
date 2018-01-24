@@ -1,1 +1,2 @@
 # testgitsquashmerge
+change by master
